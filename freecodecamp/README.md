@@ -14,4 +14,3 @@ It focuses on basic HTML structure, headings, paragraphs, and organizing content
 
 - Practice writing and structuring HTML pages.  
 - Learn how to use headings, paragraphs, and basic elements effectively.
-
