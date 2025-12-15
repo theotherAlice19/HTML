@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FreeCodeCamp HTML Practice
 
 ## About This Project
@@ -15,3 +16,10 @@ It focuses on basic HTML structure, headings, paragraphs, and organizing content
 - Practice writing and structuring HTML pages.  
 - Learn how to use headings, paragraphs, and basic elements effectively.
 
+=======
+# HTML
+About This Repository
+
+This repository contains beginner-friendly HTML files created to practice the fundamentals of web development.
+It is designed to organize learning projects in a single place while keeping a clean folder
+>>>>>>> 1905a94d764b6c359348e2ccd7bb029084fa1e5d
