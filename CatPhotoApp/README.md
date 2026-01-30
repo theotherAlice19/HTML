@@ -10,9 +10,9 @@ The page showcases cat photos, lists things cats love and hate, and demonstrates
 
 .Two sections:
 
-``.Cat Photos – displays cat images with clickable links
+  .Cat Photos – displays cat images with clickable links
 
-``.Cat Lists – contains lists of things cats love and hate, with images and captions
+  .Cat Lists – contains lists of things cats love and hate, with images and captions
 
 .Images with captions using <figure> and <figcaption>
 
