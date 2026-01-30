@@ -6,19 +6,19 @@ The page showcases cat photos, lists things cats love and hate, and demonstrates
 
 ## What This Page Contains
 
-A main heading: "CatPhotoApp"
+.A main heading: "CatPhotoApp"
 
-Two sections:
+.Two sections:
 
-Cat Photos – displays cat images with clickable links
+``.Cat Photos – displays cat images with clickable links
 
-Cat Lists – contains lists of things cats love and hate, with images and captions
+``.Cat Lists – contains lists of things cats love and hate, with images and captions
 
-Images with captions using <figure> and <figcaption>
+.Images with captions using <figure> and <figcaption>
 
-Links: text links and clickable images linking to external websites
+.Links: text links and clickable images linking to external websites
 
-Footer with copyright notice and link to freeCodeCamp
+.Footer with copyright notice and link to freeCodeCamp
 
 ## How to View
 
