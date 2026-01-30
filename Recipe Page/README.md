@@ -1,32 +1,32 @@
 Chocolate Chip Cookies Recipe
 About This Project
 
-This is a simple HTML project created to practice basic HTML structure and elements.
-The page presents a chocolate chip cookies recipe with ingredients and step-by-step instructions.
+This is a simple HTML project created to practice HTML structure and elements.
+The page presents a chocolate chip cookies recipe with a description, ingredients, and step-by-step instructions.
 
 What This Page Contains
 
-A main heading with the recipe name
+A main heading (<h1>) with the recipe name
 
-A short paragraph describing the recipe
+A paragraph (<p>) describing the recipe
 
-An image of chocolate chip cookies
+An image (<img>) of chocolate chip cookies
 
-An Ingredients section using an unordered list
+An Ingredients section using an unordered list (<ul>)
 
-An Instructions section using an ordered list
+An Instructions section using an ordered list (<ol>) with at least four steps
 
 How to View
 
 Open the index.html file in any web browser
 
-Scroll through the page to read the recipe
+Scroll through the page to see the recipe details
 
 Follow the ingredients and instructions to make the cookies
 
 Purpose
 
-Practice HTML document structure (<!DOCTYPE>, <html>, <head>, <body>)
+Practice semantic HTML structure (<html>, <head>, <body>)
 
 Learn how to use headings (<h1>, <h2>)
 
@@ -36,4 +36,4 @@ Understand the difference between ordered and unordered lists
 
 Technologies Used
 
-HTML5
+HTML
