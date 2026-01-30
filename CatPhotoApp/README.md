@@ -34,7 +34,7 @@ Links:
 
 ## Purpose
 
-- Practice semantic HTML structure (<main>, <section>, <footer>)
+-Practice semantic HTML structure (<main>, <section>, <footer>)
 
 -Learn to create clickable links (<a>) and link images
 
