@@ -24,4 +24,9 @@ The page displays three images with different attributes such as `src`, `alt`, `
 
 - Practice HTML image elements and attributes  
 - Learn how to control image size and provide alternative text  
-- Understand the difference betwe
+- Understand the difference between src and alt
+- Learn to add descriptive tooltips with title
+
+## Technologies Used
+
+-HTML5
