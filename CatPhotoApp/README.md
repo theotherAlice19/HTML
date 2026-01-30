@@ -34,16 +34,16 @@ Links:
 
 ## Purpose
 
--Practice semantic HTML structure (<main>, <section>, <footer>)
+Practice semantic HTML structure (<main>, <section>, <footer>)
 
--Learn to create clickable links (<a>) and link images
+Learn to create clickable links (<a>) and link images
 
--Practice adding images (<img>) with captions (<figcaption>)
+Practice adding images (<img>) with captions (<figcaption>)
 
--Learn to create ordered (<ol>) and unordered (<ul>) lists
+Learn to create ordered (<ol>) and unordered (<ul>) lists
 
--Understand page organization and accessibility basics
+Understand page organization and accessibility basics
 
 ## Technologies Used
 
--HTML5
+HTML5
