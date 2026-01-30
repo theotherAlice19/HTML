@@ -10,39 +10,28 @@ A main heading: "CatPhotoApp"
 
 Two sections:
 
--Cat Photos – displays cat images with clickable links
+Cat Photos – displays cat images with clickable links
 
--Cat Lists – contains lists of things cats love and hate, with images and captions
+Cat Lists – contains lists of things cats love and hate, with images and captions
 
 Images with captions using <figure> and <figcaption>
 
-Links:
+Links: text links and clickable images linking to external websites
 
--Text links to cat photos and external resources
-
--Clickable images linking to external websites
-
--Footer with copyright notice and link to freeCodeCamp
+Footer with copyright notice and link to freeCodeCamp
 
 ## How to View
 
-1.Open the index.html file in any web browser
+1. Open the index.html file in any web browser
 
-2.Scroll through the sections to view the cat photos and lists
+2. Scroll through the sections to view the cat photos and lists
 
-3.Click on links and images to visit external pages
+3. Click on links and images to visit external pages
 
 ## Purpose
 
-Practice semantic HTML structure (<main>, <section>, <footer>)
-
-Learn to create clickable links (<a>) and link images
-
-Practice adding images (<img>) with captions (<figcaption>)
-
-Learn to create ordered (<ol>) and unordered (<ul>) lists
-
-Understand page organization and accessibility basics
+Practice semantic HTML structure, creating clickable links, adding images with captions, and structuring content with ordered and unordered lists.
+Learn basic accessibility and page organization.
 
 ## Technologies Used
 
